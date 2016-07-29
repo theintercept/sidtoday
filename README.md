@@ -13,8 +13,9 @@ You can download all of the documents release so far as a zip file [here](https:
 Every commit in this repository is cryptographically signed using PGP. If you'd like to verify the integrity of the documents, you can either use [GitHub's interface](https://github.com/blog/2144-gpg-signature-verification), or you can manually verify the signatures like this:
 
 ```sh
-# Download the signing key
+# Download the signing keys
 gpg --recv-keys "927F 419D 7EC8 2C2F 149C  1BD1 403C 2657 CD99 4F73"
+gpg --recv-keys "6C57 7D0B 6ABD 6AF3 D513  EF47 A72F 3B3D 3E45 FD67"
 
 # Clone the git repository
 git clone https://github.com/firstlookmedia/sidtoday.git
