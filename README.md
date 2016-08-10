@@ -14,8 +14,8 @@ Every commit in this repository is cryptographically signed using PGP. If you'd 
 
 ```sh
 # Download the signing keys
-gpg --recv-keys "927F 419D 7EC8 2C2F 149C  1BD1 403C 2657 CD99 4F73"
-gpg --recv-keys "6C57 7D0B 6ABD 6AF3 D513  EF47 A72F 3B3D 3E45 FD67"
+gpg --recv-keys "927F419D7EC82C2F149C1BD1403C2657CD994F73"
+gpg --recv-keys "6C577D0B6ABD6AF3D513EF47A72F3B3D3E45FD67"
 
 # Clone the git repository
 git clone https://github.com/firstlookmedia/sidtoday.git
