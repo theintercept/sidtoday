@@ -1,10 +1,10 @@
 # SIDtoday Files
 
-*SIDtoday* is the internal newsletter for the NSA's most important division, the Signals Intelligence Directorate. After editorial review, *The Intercept* is releasing nine year's worth of newsletters in batches, starting with 2003.
+_SIDtoday_ is the internal newsletter for the NSA's most important division, the Signals Intelligence Directorate. _The Intercept_ released four years' worth of newsletters in batches, starting with 2003, after editorial review.
 
-You can read our *SIDtoday* reporting and browse the documents online [here](https://theintercept.com/snowden-sidtoday).
+You can read our _SIDtoday_ reporting and browse the documents online [here](https://theintercept.com/snowden-sidtoday).
 
-This repository contains *SIDtoday* articles released by *The Intercept*, in PDF format and organized by year. We will continue to update it with new documents.
+This repository contains _SIDtoday_ articles released by _The Intercept_, in PDF format and organized by year.
 
 ## Downloading and verifying
 
